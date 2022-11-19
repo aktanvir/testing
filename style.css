@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    
+}
+.top-section{
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 150px;
+    
+    
+}
+.top-section-text{
+    text-align: center;
+    padding-top: 10%;
+    font-size: 40px;
+}
+#paragraph{
+    font-size: 20px;
+}
+.donate-now-button{
+   position: absolute;
+   left: 45%;
+   background-color: rgb(200, 76, 76);
+   width: 120px;
+   height: 50px;
+   font-size: medium;
+   color: aliceblue;
+   border-radius: 5px;
+
+}
+
+.donate-today-section{
+    padding-top: 100px;
+}
+.donate-today{
+    
+    display: flex;
+    padding-left: 550px;
+    font-size: 30px;
+}
+.donate-amount{
+    
+    display: flex;
+    font-size: 30px;
+}
+.hundred{
+    padding-left: 270px;
+    padding-right: 20px;
+}
+.two-hundred{
+    padding-left: 25px;
+    color: rgb(222, 52, 52);
+    background-color: rgb(rgb(215, 106, 106), rgb(172, 88, 73), rgb(196, 109, 71));
+    border: 2px solid rgb(228, 160, 65);
+    padding-right:25px ;
+    border-radius: 5px;
+}
+.five-hundred{
+    padding-left: 50px;
+}
+.thousand{
+    padding-left: 50px;
+}
+.five-thousand{
+    padding-left: 50px;
+}
+.input-class{
+    padding-top: 50px;
+    padding-left: 470px;
+    padding-bottom: 20px;
+}
+.donation-plan{
+    text-align: center;
+}
+.donation-div{
+    padding-top: 20px;
+    display: flex;
+    padding-bottom: 100px;
+}
+.food{
+    background-image: url(donate-today-main/icons/food.png);
+    background-repeat: no-repeat;
+    border: 5px solid;
+    border-color: aqua;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 20px;
+}
+.shelter{
+    background-image: url(donate-today-main/icons/shelter.png);
+    background-repeat: no-repeat;
+    border: 5px solid;
+    border-color: rgb(160, 206, 53);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    margin-left: 20px;
+}
+.education{
+    background-image: url(donate-today-main/icons/Frame-1.png);
+    background-repeat: no-repeat;
+    border: 5px solid;
+    border-color: rgb(222, 69, 115);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.footer-class{
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 50px;
+    background-color: black;
+}
